@@ -4,3 +4,4 @@ The project titled 'car test drive mangement system is car management software f
 Main objective of this project is to give customer and online platform for bookingslot for the car.
 This project includes ER and SCHEMA diagram with functionalities an technology used with proper conclusion to it
 With an reference.
+In Front end contains detailings of the Car test drive management includes ADMIN login,USER login,updates,car specifications ratings for booking the Car after test drive.
